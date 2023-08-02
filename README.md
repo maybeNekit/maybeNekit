@@ -11,11 +11,17 @@
 
 - 💻 I am fond of data analytics, in the future I plan to become a data scientist and ml specialist
   
-### 📖: Education :
+### 📖 Education :
 -  ❤️school 109 ❤️
 -  ❤️School 1580 at Bauman University❤️
 -  ❤️Lyceum at the Higher School of Economics❤️
 -  ❤️(Higher School of Economics) soon...❤️
+
+### 🥇 Achievement :
+-  🤙participant of the regional stage in mathematics
+-  🏁advanced to Dano finals
+-  ☑️passed dozens of courses on stepik and datacamp
+### 🛠️ Skills :
 
 
 
