@@ -22,6 +22,7 @@
 -  🏁advanced to Dano finals
 -  ☑️passed dozens of courses on stepik and datacamp
 ### 🛠️ Skills :
+<h3>Languages</h3>
 
 
 
