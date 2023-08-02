@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=FCS_HSE+take+me+pls...)](https://git.io/typing-svg)
 
 ### :man_technologist: About Me :
+---
 - 🏫 I study at the Lyceum at the Higher School of Economics
 
 - 🏛️ I plan to enter this university in the direction: applied mathematics and computer science
@@ -12,16 +13,19 @@
 - 💻 I am fond of data analytics, in the future I plan to become a data scientist and ml specialist
   
 ### 📖 Education :
+---
 -  ❤️school 109 ❤️
 -  ❤️School 1580 at Bauman University❤️
 -  ❤️Lyceum at the Higher School of Economics❤️
 -  ❤️(Higher School of Economics) soon...❤️
 
 ### 🥇 Achievement :
+---
 -  🤙participant of the regional stage in mathematics
 -  🏁advanced to Dano finals
 -  ☑️passed dozens of courses on stepik and datacamp
 ### 🛠️ Skills :
+---
 <h3>Languages</h3>
 
 
