@@ -21,6 +21,7 @@
 
 
 ### 💼 career :
+---
 - Alfa Bank (intern Data scientist)
 
 ### 🥇 Achievement :
