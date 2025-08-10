@@ -20,14 +20,14 @@
 -  ❤️LSE x HSE FCS DSBA '29❤️
 
 
-### career
+### 💼 career :
+- Alfa Bank (intern Data scientist)
 
 ### 🥇 Achievement :
 ---
 -  🤙participant of the regional stage in mathematics
 -  🏁advanced to Dano finals
 -  ☑️passed dozens of courses on stepik and datacamp
-### 🛠️ Skills :
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
