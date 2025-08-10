@@ -20,7 +20,7 @@
 -  ❤️LSE x HSE FCS DSBA '29❤️
 
 
-### 💼 career :
+### 💼 Career :
 ---
 - Alfa Bank (intern Data scientist)
 
