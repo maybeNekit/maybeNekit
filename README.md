@@ -19,6 +19,9 @@
 -  ❤️Lyceum at the Higher School of Economics❤️
 -  ❤️LSE x HSE FCS DSBA '29❤️
 
+
+### career
+
 ### 🥇 Achievement :
 ---
 -  🤙participant of the regional stage in mathematics
@@ -27,21 +30,6 @@
 ### 🛠️ Skills :
 ---
 ### :hammer_and_wrench: Languages and Tools :
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
